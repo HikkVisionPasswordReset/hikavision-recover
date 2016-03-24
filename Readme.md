@@ -1,4 +1,4 @@
-#hikkavision-recover — password recovery tool via Hikvision SDK for <a href="http://goo.gl/lBzgJf">IP Cameras</a>
+#hikavision-recover — password recovery tool via Hikvision SDK for <a href="http://goo.gl/lBzgJf">IP Cameras</a>
 
 ---
 
